@@ -6,12 +6,12 @@ Follow the steps in the [link](https://github.com/Microsoft/PowerBI-visuals) for
 ----------
 
 ## To customize  
-Once you have cloned this example, run these commands to install dependencies and to connect the visual into powerbi.
+Once you have cloned this example, run these commands to [install dependencies](https://github.com/Microsoft/PowerBI-visuals#setting-up-environment) and to connect the visual in powerbi service
 ```
 npm i
 
 pbiviz start -- To start the localhost server
-pbiviz package - To creata a packaged file
+pbiviz package - To create a packaged file
 ```
 ----------
 
@@ -34,7 +34,7 @@ pbiviz package - To creata a packaged file
 
 ![](sample/Image.PNG)
 
-## [Sample File](Emoji.xlsx)
+## [Sample File](sample/Emoji.xlsx)
 
 | Type   |      Emoji(Image)
 |----------|:-------------:|
