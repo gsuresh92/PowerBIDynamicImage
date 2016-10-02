@@ -1,0 +1,23 @@
+{
+    "visual": {
+        "name": "DynamicImage",
+        "displayName": "DynamicImage",
+        "guid": "PBI_CV_CB992C4E_E1E4_4EE0_9907_C9366403C6C0",
+        "visualClassName": "DynamicImage",
+        "version": "1.0.0",
+        "description": "",
+        "supportUrl": "",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "1.1.0",
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": [],
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json"
+}
